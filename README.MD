@@ -1,4 +1,4 @@
-BOT_TOKEN = "''" # telegram bot token
+BOT_TOKEN = "''" # telegram bot token\n
 ADMIN_IDS = "" # admin ids (12345678, 123345677), comma separated
 YOOKASSA_SHOP_ID = "" # youkassa shop id
 YOOKASSA_SECRET_KEY = "" # youkassa secret key
